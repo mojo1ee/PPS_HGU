@@ -21,7 +21,6 @@ int main()
         {
             scanf("%d", &score);
             arr[j] = score;
-            //
             total += score;
         }
         avg = (float)total / n;
